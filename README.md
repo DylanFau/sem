@@ -1,3 +1,2 @@
-# Information
-___
-This is the readme for my GitHub repo.
+# Software Engineering Methods
+This repo is being used to stored data for the practicals
